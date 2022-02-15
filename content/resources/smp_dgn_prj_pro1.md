@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Re-pressurizing Tennis Balls
-type: OCWFile
 uid: e0c535a0-8d08-8340-a02e-c3159da13315
 ---

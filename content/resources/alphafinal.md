@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: alphafinal.pdf
-type: OCWFile
 uid: 2ded3107-3b42-abac-502c-5363945a825a
 ---

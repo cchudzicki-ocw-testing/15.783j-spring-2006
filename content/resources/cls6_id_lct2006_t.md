@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: PowerPoint Presentation
-type: OCWFile
 uid: 256d46f8-91aa-da36-8fdc-5d2b12337420
 ---

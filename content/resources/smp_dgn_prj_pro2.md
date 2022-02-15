@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Better Book Crate
-type: OCWFile
 uid: 0772a6d1-ea20-c79d-49de-a4b1f5d0490d
 ---

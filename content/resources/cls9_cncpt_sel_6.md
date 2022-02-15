@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Microsoft PowerPoint - Concept Selection.ppt
-type: OCWFile
 uid: 4a44d148-fc00-f946-8621-77da626cb069
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Design Evaluation  Demand Forecasting
-type: OCWFile
 uid: 9d0327f1-cb89-611a-5c2b-afba2718aed3
 ---

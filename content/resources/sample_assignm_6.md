@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Slide 1
-type: OCWFile
 uid: 1148a1b0-0e14-269e-047c-be1156cdce9f
 ---

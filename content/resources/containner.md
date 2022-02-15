@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Slide 1
-type: OCWFile
 uid: eb210c09-22f0-d3f5-eab6-bbbf081b56a1
 ---

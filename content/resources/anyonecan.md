@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: anyonecan.pdf
-type: OCWFile
 uid: 625648fe-3061-5b72-49f1-61ea498555d3
 ---

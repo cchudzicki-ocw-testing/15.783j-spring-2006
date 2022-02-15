@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: cls12_lt_st_bw_6.pdf
-type: OCWFile
 uid: 01130890-20df-7210-28ee-0e67911a26ef
 ---

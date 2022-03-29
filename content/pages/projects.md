@@ -14,7 +14,7 @@ Projects from 2006
 
 All work is courtesy of the students named and used with permission.
 
-Cadillac CTS Door Closer - Eric Bevan, Dean Ljubicic, Pedzi Makumbe, John Park, Curtis Underwood, Jamie Waldinger, Moya Yen (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 48df4c0c-6b86-eab6-7a0e-d3c230df7e03 "PDF" %}})
+Cadillac CTS Door Closer - Eric Bevan, Dean Ljubicic, Pedzi Makumbe, John Park, Curtis Underwood, Jamie Waldinger, Moya Yen ({{% resource_link 48df4c0c-6b86-eab6-7a0e-d3c230df7e03 "PDF" %}})
 
 ContaInner - Eun-Joung Lee, Christopher Leitz, Billy Lo, Caroline Park, Becky Roberts, Matthew Ward ({{% resource_link eb210c09-22f0-d3f5-eab6-bbbf081b56a1 "PDF" %}})
 

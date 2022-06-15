@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the course project, project teams,
+  project materials and expenses and guidelines for projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
